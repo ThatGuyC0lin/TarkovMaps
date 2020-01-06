@@ -1,1 +1,0 @@
-<h1 class="text-center pt-5">Home Page</h1>
